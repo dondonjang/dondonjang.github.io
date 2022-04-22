@@ -9,7 +9,7 @@ version: 2
 name: 장병돈(DonDon)
 title: PHP & Node.js 개발자
 email: hanbyoul@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: https://dondonjang.tistory.com/
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/11140238_10206808934891647_2543721939777512616_n.jpg
 about_content: | # this will include new lines to allow paragraphs
-  12년차 개발자 및 PO로 스타트업 주로 웹서비스를 개발, 운영, 마케팅, 창업등의 다양한 경험이 있습니다.
+  12년차 개발자 및 PO로 스타트업에서 주로 일했으며,  웹서비스를 개발, 운영, 마케팅, 창업등의 다양한 경험이 있습니다.
 
 content:
   - title: Skills
