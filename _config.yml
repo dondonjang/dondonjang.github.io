@@ -48,20 +48,26 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/11140238_10206808934891647_2543721939777512616_n.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  12년차 개발자 및 PO로 스타트업 주로 웹서비스를 개발, 운영, 마케팅, 창업등의 다양한 경험이 있습니다.
 
 content:
-  - title: Work Experience # Title for the section
+  - title: Skills
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Back-End: Node.js, Nest.js, PHP, Laravel, Codeigniter 등
+      - Front-End: React.js, TypeScript, Next.js, React Native, HTML/CSS, JavaScript 등
+      - Data: Mysql(MariaDB), MongoDB, ElasticSeach, Redis, Google Anaytics 등
+      - 기타(관심사) : SEO(Search Engine Optimization), SEM(Search Engine Marketing) 등
+
+  - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: 파츠고
-        link: https://pandaparts.co.kr
+        link: https://pandaparts.co.kr/
         # link_text: boringcompany.com
-        sub_title: 
-        caption: 2018. 05 - 현재
+        sub_title: 온라인파트 / 파트장
+        caption: November 2017 - 현재
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
@@ -71,12 +77,59 @@ content:
         title: 야놀자
         link: https://www.yanolja.com/
         # link_text: boringcompany.com
-        sub_title: Product Owner
+        sub_title: ProductOwner(PO)
         caption: 2017. 01 - 2018. 05
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
           Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+
+      - layout: left
+        title: 파브리카
+        #link: https://pandaparts.co.kr/
+        # link_text: boringcompany.com
+        sub_title: COO(기획, 개발)
+        caption: 2014. 10 - 2016. 02
+        quote: >
+          숙박관련 스타트업으로, 출장숙박, 모텔(호텔) 부동산 서비스 출시, 민앤지 관계사
+        description: | # this will include new lines to allow paragraphs
+          - 모텔 부동산 정보 공유 서비스 모텔 뱅크 개발
+          - 
+          - 출장 숙박 서비스 '스테이포커스' 서비스 기획, 운영
+
+      - layout: left
+        title: 토리박스
+        # link: https://pandaparts.co.kr/
+        # link_text: boringcompany.com
+        sub_title: 대표(창업)
+        caption: 2013. 02 - 2014. 10
+        quote: >
+          호텔가격비교 서비스 '호텔왕' 개발, 운영
+        description: | # this will include new lines to allow paragraphs
+          - 호텔 가격비교 서비스를 초기에 런칭, 1인 기획/개발/배포/운영
+          - Wego, 호텔스컴바인, 익스피디아, 아고다, 부킹닷컴 연동
+
+      - layout: left
+        title: 싸이앤월드
+        # link: https://pandaparts.co.kr/
+        # link_text: boringcompany.com
+        sub_title: 마케팅 / 팀장
+        caption: 2010. 10 - 2013. 02
+        quote: >
+          여행사 대상 B2B호텔 공급 서비스
+        description: | # this will include new lines to allow paragraphs
+          -
+      - layout: left
+        title: 씽크엔젤
+        # link: https://pandaparts.co.kr/
+        # link_text: boringcompany.com
+        sub_title: 개발부서 / 부장
+        caption: 2010. 01 - 2011. 11
+        quote: >
+          국내 여행사용 홈페이지 공급, SaaS방식 도메인에 따라 다른 홈페이지 제공
+        description: | # this will include new lines to allow paragraphs
+          - 국내 여행사의 홈페이지 공급, 대형 여행사(하나투어, 모두투어, 한진관광)등의 상품 연동 개발
+          - 전국 약 200여개 여행사 이용
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -97,40 +150,11 @@ content:
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
-
-
-  - title: A Little More About Me
+  - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-    - title: Skills
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      - Front : JavaScript, TypeScript, React.js, Next.js, HTML/CSS, ReactNati
-      - Back : PHP, Laravel, Codeigniter, Nest.js, Node.js
-      - Data : Mysql(MariaDB), MongoDB, ElasticSearch, Redis
-
-    - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+      - 2008. 03 - 2010. 02 동서대학교 컴퓨터공학
+      - 2004. 02 - 2006. 02 구미기능대학교 컴퓨터정보학과
 
 # Footer
 footer_show_references: true
