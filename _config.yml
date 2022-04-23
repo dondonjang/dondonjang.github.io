@@ -166,23 +166,32 @@ content:
         # quote: >
         #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          - 
-          -
-          -
+          - 기존에 개선한 API를 본격적으로 전체 서비스에 도입하기 위한 Back / Front 분리
+          - 기존 세션처리에서 회원 정보 JWT토큰 방식으로 변경
+          - React, Next.js를 사용하여 Front Rewriting 3개 월동안 전체 서비스 개발
       - layout: left
         title: 도메인분리, MSA진행
         sub_title: 파츠고
         caption: 2021. 06 - 2022. 01
         description: | # this will include new lines to allow paragraphs
-          -
-          -
+          - 1차 API화가 너무 작은 단위로 쪼개져, 2차 개선 진행 도메인 단위 구분
+          - 매출(주문), 매입(발주), 검색, 회원, 외부인프라로 구분
+          - 검색API Nest.js로 Rewriting진행, 재고, 가격 DB MongoDB 도입 (누적 가격 Row 1억건 돌파)
+          - Tech: PHP, Laravel, Mysql, ElasticSeach, GIT, Queue(Job), MongoDB
       - layout: left
         title: 운영, 관리자 고도화
         sub_title: 파츠고
         caption: 2019. 09 - 2021. 06
         description: | # this will include new lines to allow paragraphs
-          - 관리자 효율 개선
-          -
+          - 연동 제휴처 증가로 상품 매입 프로세스 개선 및 일부 자동화
+          - 기존 일 3~4시간 걸리던 발주시간 10~20분내로 단축
+          - 관리자 ERP향 구조 개선, 매출, 매입, 재고, 견적등의 요소 구분
+          - 매입시 통관등의 프로세스 개선 및 효율화로 하루 100건 이상 통관 담당자 1인 처리
+          - 검색 API를 활용, 견적 자동화로 영업 담당자 업무 효율 개선
+          - 개발 인원이 늘어남에 따라 Codeiginter개발 효율이 떨어짐에 따라 Laravel도입 및 내부 기능 1차 API화 진행
+          - 수집 데이터량이 증가 및 보유 데이터 증가로 AWS에서 IDC로 서버 이전
+          - 관리자 데이터 편집등의 효율화를 위해 React, TuiGrid 적용
+          - Tech: PHP, Codeigniter, Jquey, Laravel, Mysql, ElasticSeach, GIT, Queue(Job)
       - layout: left
         title: 판다파츠 개발
         sub_title: 파츠고
