@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: 장병돈(DonDon)
+name: 장병돈 (DonDon)
 title: PHP & Node.js 개발자
 email: hanbyoul@gmail.com
 website: https://dondonjang.tistory.com/
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/11140238_10206808934891647_2543721939777512616_n.jpg
 about_content: | # this will include new lines to allow paragraphs
-  12년차 개발자 및 PO로 스타트업에서 주로 일했으며,  웹서비스를 개발, 운영, 마케팅, 창업등의 다양한 경험이 있습니다.
+  12년차 개발자, PO로 스타트업에서 주로 일했으며, 웹서비스를 개발, 운영, 마케팅, 창업등의 다양한 경험이 있습니다.
 
 content:
   - title: Skills
@@ -69,20 +69,30 @@ content:
         sub_title: 온라인파트 / 파트장
         caption: November 2017 - 현재
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          전자부품 정보 유통사 Data Aggregator / 직구형 커머스, PreA 투자유치
         description: | # this will include new lines to allow paragraphs
-          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          - 10명 (개발팀 4명)
+          - 판다파츠 커머스(전자부품 구매대행) 서비스 개발 운영
+          - 파츠고 (전자부품 유통사간의 견적, 재고공유 서비스)
+          - 국내 최초 글로벌 상위 3사 유통사 API연동
+          - 단순/반복 업무를 자동화/프로세스 개선 운영팀의 업무시간 <mark>주당 20시간 이상 감소</mark>
+          - 매년 <mark>2배 이상 거래액</mark> 갱신
 
       - layout: left
         title: 야놀자
         link: https://www.yanolja.com/
         # link_text: boringcompany.com
-        sub_title: ProductOwner(PO)
+        sub_title: YAN실 ProductOwner(PO)
         caption: 2017. 01 - 2018. 05
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          국내 및 글로벌 숙박/레저 O2O서비스
         description: | # this will include new lines to allow paragraphs
-          Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          - 800명~ (R&D 200명~)
+          - 야놀자 모텔(대실) Channel Out Product Lead
+          - Channel In: 야놀자펜션(자회사) 펜션 상품 연동 담당
+          - Channel Out: 11번가, 네이버지도/쇼핑, 호텔스컴바인, 네이버호텔, 고코투어등 다수의 외부채널 API연동 기획 및 정책 정의
+          - 채널별 <mark>매출 200~500% 매출 증진</mark>
+          - 연동 데이터 모니터링 개선 <mark>실패율 15% > 0.5% 감소</mark>
 
       - layout: left
         title: 파브리카
@@ -93,9 +103,10 @@ content:
         quote: >
           숙박관련 스타트업으로, 출장숙박, 모텔(호텔) 부동산 서비스 출시, 민앤지 관계사
         description: | # this will include new lines to allow paragraphs
+          - 10명 (개발팀 인원 3명)
           - 모텔 부동산 정보 공유 서비스 모텔 뱅크 개발
-          - 
           - 출장 숙박 서비스 '스테이포커스' 서비스 기획, 운영
+          - 서울 시청, 토지공사 API연동으로 등록된 물건의 지도, 건축물대장, 숙박업 등록 현황 및 변동 사항 자동 반영
 
       - layout: left
         title: 토리박스
@@ -106,6 +117,7 @@ content:
         quote: >
           호텔가격비교 서비스 '호텔왕' 개발, 운영
         description: | # this will include new lines to allow paragraphs
+          - 개발팀 인원 2명
           - 호텔 가격비교 서비스를 초기에 런칭, 1인 기획/개발/배포/운영
           - Wego, 호텔스컴바인, 익스피디아, 아고다, 부킹닷컴 연동
 
@@ -116,9 +128,13 @@ content:
         sub_title: 마케팅 / 팀장
         caption: 2010. 10 - 2013. 02
         quote: >
-          여행사 대상 B2B호텔 공급 서비스
+          여행사 대상 B2B호텔 공급 서비스, 노랑풍선, 코나여행사, 신한카드, 티켓몬스터, 쿠팡등 제휴
         description: | # this will include new lines to allow paragraphs
-          -
+          - 5명 (개발팀 인원 1명)
+          - 키워드, 블로그, 프로모션 기획 / 운영
+          - 동일 예산내 트래픽 / <mark>매출 2배 증가</mark>
+          - 국내 최초 국내외 숙소 올인원 요금제 시행(세금/봉사료 포함요금)
+
       - layout: left
         title: 씽크엔젤
         # link: https://pandaparts.co.kr/
@@ -126,35 +142,132 @@ content:
         sub_title: 개발부서 / 부장
         caption: 2010. 01 - 2011. 11
         quote: >
-          국내 여행사용 홈페이지 공급, SaaS방식 도메인에 따라 다른 홈페이지 제공
+          국내 여행사용 홈페이지 공급 서비스 제공, 전국 약 200여개 여행사 이용
         description: | # this will include new lines to allow paragraphs
+          - 15명 (개발팀 인원 8명)
           - 국내 여행사의 홈페이지 공급, 대형 여행사(하나투어, 모두투어, 한진관광)등의 상품 연동 개발
-          - 전국 약 200여개 여행사 이용
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Super awesome project
-        link: github.com/sproogen
+        title: Back / Front 분리
+        sub_title: 파츠고
+        caption: 2021. 10 - 2022. 04
+        # link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        # additional_links:
+        #   - title: sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
+        # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   icon: fab fa-github
+        #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+        #   This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          - 
+          -
+          -
+      - layout: left
+        title: 도메인분리, MSA진행
+        sub_title: 파츠고
+        caption: 2021. 06 - 2022. 01
+        description: | # this will include new lines to allow paragraphs
+          -
+          -
+      - layout: left
+        title: 운영, 관리자 고도화
+        sub_title: 파츠고
+        caption: 2019. 09 - 2021. 06
+        description: | # this will include new lines to allow paragraphs
+          - 관리자 효율 개선
+          -
+      - layout: left
+        title: 판다파츠 개발
+        sub_title: 파츠고
+        caption: 2018. 06 - 2019. 07
+        description: | # this will include new lines to allow paragraphs
+          - 전자부품 글로벌 유통사 연동 커머스 자체 개발
+          - 고객 검색 및 내부 자동 Scrapping Flask API 개발
+          - Tech: PHP, Codeigniter, Python, Flask, AWS EC2/RDB, GIT
+      - layout: left
+        title: 파츠고 서비스 개발
+        sub_title: 파츠고
+        caption: 2018. 06 - 2019. 07
+        description: | # this will include new lines to allow paragraphs
+          - 전자부품 유통사간의 견적 공유 서비스 개발
+          - 그누보드 게시판 베이스의 홈페이지 새로 개발 (복잡도가 높아 사용성이 떨어짐)
+          - 견적등록 서비스를 단순화, 향후 재고 정보 공유로 확장
+          - 유통사간 채팅 서비스 개발 (외부 API활용)
+          - Tech: PHP, Codeigniter, Jquey, Node.js, Exprss, AWS EC2/RDB, GIT
+      - layout: left
+        title: 모텔뱅크 개발
+        sub_title: 토리박스
+        caption: 2016. 04 - 16. 12
+        description: | # this will include new lines to allow paragraphs
+          - 서비스 피봇팅으로 국내 숙박시설 부동산 서비스 개발
+          - 내부에서 수집하는 부동산 정보 등록 관리자 개발
+          - 네이버 Local API를 활용한 Geo좌표 수집 및 주소 보정
+          - 울 시청, 토지공사 API연동으로 등록된 물건의 지도, 건축물대장, 숙박업 등록 현황 및 변동 사항 자동 반영
+          - Tech: PHP, Codeigniter, Jquey, AWS EC2/RDB, GIT
+      - layout: left
+        title: 호텔왕 V2
+        sub_title: 토리박스
+        caption: 2013. 10 - 2014. 10
+        description: | # this will include new lines to allow paragraphs
+          - Wego API 제휴 자체 가격비교 서비스 개발
+          - Agoda, Booking.com DB 제휴 3사 데이터 Mapping 프로그램 개발
+          - 당일 특가 호텔 모음 서비스 개발
+          - API 연동을 초기 PHP를 Python Rewriting 진행
+          - Tech: PHP, Codeigniter, Jquey, Python, Flask, GIT
+      - layout: left
+        title: 호텔왕 V1
+        sub_title: 토리박스
+        caption: 2013. 02 - 2013. 13.10
+        description: | # this will include new lines to allow paragraphs
+          - 호텔스컴바인 제휴 (국내 공식 런칭전) 서비스 개발
+          - JavaScript, CSS등을 활용한 Front 디자인 개선 및 최적화 진행
+          - 매출 분석을 위해 Lead시 데이터 수집 기능 개발
+          - Tech: PHP, JavaScript, CSS, Jquery
+      - layout: left
+        title: 여행사 SaaS 개발
+        sub_title: 씽크엔젤
+        caption: 2010. 01 - 2011. 11
+        description: | # this will include new lines to allow paragraphs
+          - 도메인 베이스로 다른 홈페이지 디자인 출력
+          - 여행사의 자체 상품, 대형여행사 상품 맞춤(전문판매점) 예약 서비스 구축
+          - 호텔예약 서비스 연동 부가수입 제공
+          - Tech: PHP, Mysql, Jquery등
+
+  - title: Personal Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 니편내편옥편 IOS
+        sub_title: 지인 요청프로젝트
+        caption: 2018. 12 - 2019. 06
+        description: | # this will include new lines to allow paragraphs
+          - 구글 OCR을 활용, 단어 단위의 한자 번역 앱 서비스
+          - 구글 광고 삽입, IOS 구독 기능 추가
+          - IOS버전은 카메라 음등의 문제로 deprecated
+          - Tech : ReactNative, Node.js, Exprss
+      - layout: left
+        title: ReFur(모피쇼핑몰)
+        sub_title: 지인 요청프로젝트
+        link: https://re-fur.com/
+        caption: 2017. 09 - 2017. 11
+        description: | # this will include new lines to allow paragraphs
+          - 고급 모피전문몰로 영문이 많이 들어간 형태의 사이트 구조 개선 
+          - 브랜드 페이지 형태의 인덱스 페이지 개별 구성
+          - 게시판을 변형 시즌별 LookBook 등록 기능 개발
+          - Tech: 고도몰, PHP, Jquery등
 
   - title: Education
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - 2008. 03 - 2010. 02 동서대학교 컴퓨터공학
-      - 2004. 02 - 2006. 02 구미기능대학교 컴퓨터정보학과
+      - 동서대학교 컴퓨터공학 2008. 03 - 2010. 02 
+      - 구미기능대학교 컴퓨터정보학과 2004. 02 - 2006. 02
 
 # Footer
 footer_show_references: true
