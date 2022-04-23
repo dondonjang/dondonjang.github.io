@@ -48,13 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/11140238_10206808934891647_2543721939777512616_n.jpg
 about_content: | # this will include new lines to allow paragraphs
-  12년차 개발자(PO)로 스타트업에서 주로 일했으며, 웹서비스를 개발, 운영, 마케팅, 창업등의 다양한 경험이 있습니다.
-  최근 Node.js(Nest), PHP(Laravel), React를 사용하여 서비스 프로덕션 서비스를 설계, 개발, 운영을 하였습니다.
+  12년차 개발자(PO)로 스타트업에서 주로 일했으며, 웹서비스를 개발, 운영, 마케팅, 창업등의 다양한 경험이 있습니다. 최근 Node.js(Nest), PHP(Laravel), React를 사용하여 프로덕션 서비스를 설계, 개발, 운영을 하였습니다.
 
-  내외부 사용자 입장에서 서비스경험을 중요하게 생각하여 개밥먹기(?)를 열심히 합니다.
-  작은 조직을 주로 리드해 개발의 효율을 위한 구조, 유지보수성이 높은 백엔드 아키텍처와 패턴을 위해 많은 고민을 합니다.
+  내외부 사용자 입장에서 서비스경험을 중요하게 생각하여 개밥먹기(?)를 열심히 합니다. 작은 조직을 주로 리드해 개발의 효율을 위한 구조, 유지보수성이 높은 백엔드 아키텍처와 패턴을 위해 많은 고민을 합니다.
 
-  서비스 개발은 비즈니스 효율과 성장에 기여하는것이 우선이라고 생각을 하며, 이를 위해 많이 커뮤니케이션하며 공유하려고 노력합니다.
+  서비스 개발은 비즈니스 효율과 성장에 기여하는것이 우선이라고 생각을 하며, 이를 위해 많이 커뮤니케이션하고 공유합니다.
 
 content:
   - title: Skills
@@ -177,7 +175,7 @@ content:
           - React, Next.js를 사용하여 Front Rewriting 3개 월동안 전체 서비스 개발
           - Tech: React, Next.js, JWT, Vercel
       - layout: left
-        title: 도메인분리, MSA진행
+        title: 도메인분리, M(Mini)SA진행
         sub_title: 파츠고
         caption: 2021. 06 - 2022. 01
         description: | # this will include new lines to allow paragraphs
@@ -196,9 +194,8 @@ content:
           - 매입시 통관등의 프로세스 개선 및 효율화로 하루 100건 이상 통관 담당자 1인 처리
           - 검색 API를 활용, 견적 자동화로 영업 담당자 업무 효율 개선
           - 개발 인원이 늘어남에 따라 Codeiginter개발 효율이 떨어짐에 따라 Laravel도입 및 내부 기능 1차 API화 진행
-          - 수집 데이터량이 증가 및 보유 데이터 증가로 AWS에서 IDC로 서버 이전
+          - 수집 데이터량이 증가 및 보유 데이터 가격데이터 증가및 비용 문제로 AWS에서 IDC로 서버 이전
           - 관리자 데이터 편집등의 효율화를 위해 React, TuiGrid 적용
-          - Error
           - Tech: PHP, Codeigniter, Jquey, Laravel, Mysql, ElasticSeach, GIT, Queue(Job)
       - layout: left
         title: 판다파츠 개발
@@ -223,10 +220,10 @@ content:
         sub_title: 토리박스
         caption: 2016. 04 - 16. 12
         description: | # this will include new lines to allow paragraphs
-          - 서비스 피봇팅으로 국내 숙박시설 부동산 서비스 개발
+          - 서비스 피봇팅으로 국내 숙박시설 부동산 중개 서비스 개발
           - 내부에서 수집하는 부동산 정보 등록 관리자 개발
           - 네이버 Local API를 활용한 Geo좌표 수집 및 주소 보정
-          - 울 시청, 토지공사 API연동으로 등록된 물건의 지도, 건축물대장, 숙박업 등록 현황 및 변동 사항 자동 반영
+          - 서울 시청, 토지공사 API연동(Scrapping)으로 등록된 물건의 지도, 건축물대장, 숙박업 등록 현황 및 변동 사항 자동 반영
           - Tech: PHP, Codeigniter, Jquey, AWS EC2/RDB, GIT
       - layout: left
         title: 호텔왕 V2
