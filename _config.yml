@@ -169,6 +169,7 @@ content:
           - 기존에 개선한 API를 본격적으로 전체 서비스에 도입하기 위한 Back / Front 분리
           - 기존 세션처리에서 회원 정보 JWT토큰 방식으로 변경
           - React, Next.js를 사용하여 Front Rewriting 3개 월동안 전체 서비스 개발
+          - Tech: React, Next.js, JWT, Vercel
       - layout: left
         title: 도메인분리, MSA진행
         sub_title: 파츠고
