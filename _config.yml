@@ -200,7 +200,7 @@ content:
       - layout: left
         title: 판다파츠 개발
         sub_title: 파츠고
-        caption: 2018. 06 - 2019. 07
+        caption: 2019. 04 - 2019. 09
         description: | # this will include new lines to allow paragraphs
           - 전자부품 글로벌 유통사 연동 커머스 자체 개발
           - 고객 검색 및 내부 자동 Scrapping Flask API 개발
